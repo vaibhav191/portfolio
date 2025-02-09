@@ -1,4 +1,4 @@
-# Vaibhav's Portfolio
+# Portfolio
 
 Welcome to my portfolio website! This is a simple website created using Vite, React, and TypeScript. It is designed to showcase my skills, experience, and projects as a software developer.
 
