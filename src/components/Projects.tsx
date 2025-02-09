@@ -30,7 +30,7 @@ function Projects() {
             title: "Portfolio website",
             description: "A website to showcase my projects, skills, and experience.",
             technologies: ["Bootstrap", "React", "TypeScript"],
-            githubLink: "https://vaibhav191.github.io/portfolio/"
+            githubLink: "https://github.com/vaibhav191/portfolio"
         },
     ];
 
