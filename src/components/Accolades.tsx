@@ -1,3 +1,5 @@
+import accolade1 from './assets/img/redacted_applause.png';
+import accolade2 from './assets/img/redacted_OPA_1.png';
 function Accolades() {
   return (
     <div className="p-5" id="accolades">
@@ -9,7 +11,7 @@ function Accolades() {
               Oracle Cyberplex Platform
             </div>
             <a
-              href="/assets/img/redacted_applause.png"
+              href={accolade1}
               target="_blank"
               rel="noopener noreferrer"
               className="text-decoration-none text-white card-body"
@@ -30,7 +32,7 @@ function Accolades() {
           <div className="card text-bg-dark border-light h-100">
             <div className="h5 card-header border-light">Project Gemstone</div>
             <a
-              href="/assets/img/redacted_OPA_1.png"
+              href={accolade2}
               target="_blank"
               rel="noopener noreferrer"
               className="text-decoration-none text-white card-body"
