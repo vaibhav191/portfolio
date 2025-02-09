@@ -1,5 +1,5 @@
-import accolade1 from './assets/img/redacted_applause.png';
-import accolade2 from './assets/img/redacted_OPA_1.png';
+import accolade1 from '../assets/img/redacted_applause.png';
+import accolade2 from '../assets/img/redacted_OPA_1.png';
 function Accolades() {
   return (
     <div className="p-5" id="accolades">

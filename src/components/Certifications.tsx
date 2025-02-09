@@ -1,5 +1,5 @@
 import { useEffect } from 'react';
-import microsoft from './assets/img/microsoft-certified-fundamentals-badge.svg';
+import microsoft from '../assets/img/microsoft-certified-fundamentals-badge.svg';
 
 function Certifications() {
   useEffect(() => {
