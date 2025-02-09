@@ -1,5 +1,4 @@
 import { useEffect } from 'react';
-import microsoftBadge from '../assets/microsoft-certified-fundamentals-badge.svg';
 
 function Certifications() {
   useEffect(() => {
@@ -34,7 +33,7 @@ function Certifications() {
               <a href="https://learn.microsoft.com/api/credentials/share/en-us/VaibhavAjitkumarShrivastav-8913/158A140AF56D6A34?sharingId=8AEEAFDAB6E056D1">
                 <div className="d-flex justify-content-center">
                   <img 
-                    src={microsoftBadge}
+                    src="src/assets/microsoft-certified-fundamentals-badge.svg" 
                     alt="Microsoft Certified: Azure AI Fundamentals" 
                     width="150"
                     height="245"
