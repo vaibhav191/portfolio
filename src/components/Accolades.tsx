@@ -9,7 +9,7 @@ function Accolades() {
               Oracle Cyberplex Platform
             </div>
             <a
-              href="src/assets/redacted_applause.png"
+              href="/assets/img/redacted_applause.png"
               target="_blank"
               rel="noopener noreferrer"
               className="text-decoration-none text-white card-body"
@@ -30,7 +30,7 @@ function Accolades() {
           <div className="card text-bg-dark border-light h-100">
             <div className="h5 card-header border-light">Project Gemstone</div>
             <a
-              href="src/assets/redacted_OPA_1.png"
+              href="/assets/img/redacted_OPA_1.png"
               target="_blank"
               rel="noopener noreferrer"
               className="text-decoration-none text-white card-body"
