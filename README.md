@@ -22,8 +22,8 @@ To run the React app locally, follow these steps:
 1. **Clone the repository**:
 
 ```sh
-git clone https://github.com/your-username/vaibhav-portfolio.git
-cd vaibhav-portfolio
+git clone https://github.com/vaibhav191/portfolio.git
+cd portfolio
 ```
 
 2. **Install dependencies**:
