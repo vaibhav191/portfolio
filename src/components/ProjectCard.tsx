@@ -1,8 +1,4 @@
 import { FaGithub } from 'react-icons/fa';
-import tictactoe1 from '../assets/img/tictactoe-home.png';
-import tictactoe2 from '../assets/img/tictactoe-gameScreen.png';
-import tictactoe3 from '../assets/img/tictactoe-gameEndScreen.png';
-import tictactoe4 from '../assets/img/tictactoe-recordsScreen.png';
 
 interface ProjectCardProps {
     title: string;
